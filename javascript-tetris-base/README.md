@@ -16,10 +16,3 @@ FUTURE
  * touch support
  * music and sound fx
 
-
-License
-=======
-
-[MIT](http://en.wikipedia.org/wiki/MIT_License) license.
-
-
